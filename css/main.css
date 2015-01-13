@@ -1,0 +1,15 @@
+.vertalign {
+    display:table;
+    height:100px;
+}
+
+.content {
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+}
+
+.counter{
+	font-size: 50px;
+	color: #ff0000;
+}
